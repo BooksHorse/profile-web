@@ -46,6 +46,45 @@ html{
 .container-wrapper div:nth-child(10),.header div:nth-child(10){
   animation:a 2.85s cubic-bezier(.25, 1, .5, 1);
 }
+.container-wrapper div:nth-child(11),.header div:nth-child(11){
+  animation:a 3.05s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(12),.header div:nth-child(12){
+  animation:a 3.25s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(13),.header div:nth-child(13){
+  animation:a 3.45s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(14),.header div:nth-child(14){
+  animation:a 3.65s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(15),.header div:nth-child(15){
+  animation:a 3.85s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(16),.header div:nth-child(16){
+  animation:a 4.05s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(17),.header div:nth-child(17){
+  animation:a 4.25s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(18),.header div:nth-child(18){
+  animation:a 4.45s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(19),.header div:nth-child(19){
+  animation:a 4.65s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(20),.header div:nth-child(20){
+  animation:a 4.85s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(21),.header div:nth-child(21){
+  animation:a 5.05s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(22),.header div:nth-child(22){
+  animation:a 5.25s cubic-bezier(.25, 1, .5, 1);
+}
+.container-wrapper div:nth-child(23),.header div:nth-child(23){
+  animation:a 5.45s cubic-bezier(.25, 1, .5, 1);
+}
 .container-wrapper,.header{
   grid-template-columns:repeat(1, 2fr);
   margin:20px 20%;

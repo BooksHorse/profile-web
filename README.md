@@ -6,7 +6,7 @@ website แนะนำตัว
 
 ### Live Demo
 
-Live demo ที่ <https://profile.sencha.moe/>
+Live demo ที่ <https://profile.bocchichan.moe/>
 
 ### Docker
 
